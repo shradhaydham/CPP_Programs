@@ -1,13 +1,8 @@
-# CPP-programming
+# C++ programming and programs
 **__________________________________________________________________________________________________**
 
-**C++** programs solved from scratch when I had started learning CPP.
+**C++** programs solved from scratch when I had started learning C++.
 
 Most effective logic with proper **documentation** are done in these programs..
 **_____________________________________________________________________________________________________**
-
-## 🔗 Links
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nikhil-soni-435b13217/)
-
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/salvador001)
 
